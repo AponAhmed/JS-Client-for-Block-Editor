@@ -1,0 +1,19 @@
+{
+  "name": "@aponahmed/js-client-for-blockeditor",
+  "version": "1.0.0",
+  "description": "Generated JSON to Build HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AponAhmed/JS-Client-for-Block-Editor.git"
+  },
+  "author": "APON",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AponAhmed/JS-Client-for-Block-Editor/issues"
+  },
+  "homepage": "https://github.com/AponAhmed/JS-Client-for-Block-Editor#readme"
+}
