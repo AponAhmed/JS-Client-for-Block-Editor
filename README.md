@@ -64,4 +64,4 @@ An extension of `Image` specifically designed for WordPress, including support f
 
 #### `ListElement`
 
-Represents HTML list elements (<ul> and <ol>) with child items.
+Represents HTML list elements (`<ul>` and  `<ol>`) with child items.
