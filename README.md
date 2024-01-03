@@ -1,5 +1,5 @@
 # JS-Client-for-Block-Editor
- BlockEditors generated JSON to Build HTML, This is 
+ The Block Editor JS Client is a JS Module that facilitate the creation and rendering of HTML elements for a block editor(From JSON data). Json Data generate by a JavaScript App linked Below. It provides an object-oriented approach to building dynamic and customizable layouts.
 
 
 ## JSON Builder
