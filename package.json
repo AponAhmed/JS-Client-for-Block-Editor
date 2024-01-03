@@ -1,5 +1,5 @@
 {
-  "name": "@aponahmed/js-client-for-blockeditor",
+  "name": "@aponahmed/blockeditor-js-client",
   "version": "1.0.0",
   "description": "Generated JSON to Build HTML",
   "main": "index.js",
