@@ -5,7 +5,7 @@ export default class Content extends Element {
         super('div');
         this.addClass('content-area');
         this.styles = elementData.more.styles || {};
-        this.content = elementData.content || [];
+        this.content = elementData.content || "";
         this.setStyleAttribute();
         if (elementData.more.customClass) {
             this.addClass(elementData.more.customClass);
